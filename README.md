@@ -16,6 +16,8 @@ This lab compares traditional string manipulation with modern memory-safe slicin
 
 ### The Results (Generated via BenchmarkDotNet)
 
+You can find the lab result: MyPerformanceLab/bin/Release/net10.0/BenchmarkDotNet.Artifacts/results/MyPerformanceLab.StringPerformance-report-github.md
+
 BenchmarkDotNet v0.15.8, Windows 11 (10.0.26100.7840/24H2/2024Update/HudsonValley)
 Intel Core Ultra 7 155U 1.70GHz, 1 CPU, 14 logical and 12 physical cores
 .NET SDK 10.0.100
